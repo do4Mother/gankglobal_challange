@@ -1,6 +1,13 @@
 # gankglobal_challange
 
-A new Flutter project.
+A new Flutter project for Gank Global Challange.
+
+## Preview
+
+<img src="https://raw.githubusercontent.com/do4Mother/gankglobal_challange/master/homepage.png" width="500">
+<img src="https://raw.githubusercontent.com/do4Mother/gankglobal_challange/master/detailpage.png" width="500">
+<img src="https://raw.githubusercontent.com/do4Mother/gankglobal_challange/master/searchpage-skeleton.png" width="500">
+<img src="https://raw.githubusercontent.com/do4Mother/gankglobal_challange/master/searchpage.png" width="500">
 
 ## Getting Started
 
